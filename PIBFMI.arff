@@ -1,0 +1,1547 @@
+@relation PIB_FMI
+@attribute País {Afghanistan,Albania,Algeria,Angola,'Antigua and Barbuda',Argentina,Armenia,Aruba,Australia,Austria,Azerbaijan,Bahrain,Bangladesh,Barbados,Belarus,Belgium,Belize,Benin,Bhutan,Bolivia,'Bosnia and Herzegovina',Botswana,Brazil,'Brunei Darussalam',Bulgaria,'Burkina Faso',Burundi,'Cabo Verde',Cambodia,Cameroon,Canada,'Central African Republic',Chad,Chile,China,Colombia,Comoros,'Costa Rica',Croatia,Cyprus,'Czech Republic','Côte d\'Ivoire','Democratic Republic of the Congo',Denmark,Djibouti,Dominica,'Dominican Republic',Ecuador,Egypt,'El Salvador','Equatorial Guinea',Eritrea,Estonia,Eswatini,Ethiopia,'FYR Macedonia',Fiji,Finland,France,Gabon,Georgia,Germany,Ghana,Greece,Grenada,Guatemala,Guinea,Guinea-Bissau,Guyana,Haiti,Honduras,'Hong Kong SAR',Hungary,Iceland,India,Indonesia,Iraq,Ireland,'Islamic Republic of Iran',Israel,Italy,Jamaica,Japan,Jordan,Kazakhstan,Kenya,Kiribati,Korea,Kosovo,Kuwait,'Kyrgyz Republic','Lao P.D.R.',Latvia,Lebanon,Lesotho,Liberia,Libya,Lithuania,Luxembourg,'Macao SAR',Madagascar,Malawi,Malaysia,Maldives,Mali,Malta,'Marshall Islands',Mauritania,Mauritius,Mexico,Micronesia,Moldova,Mongolia,Montenegro,Morocco,Mozambique,Myanmar,Namibia,Nauru,Nepal,Netherlands,'New Zealand',Nicaragua,Niger,Nigeria,Norway,Oman,Pakistan,Palau,Panama,'Papua New Guinea',Paraguay,Peru,Philippines,Poland,Portugal,'Puerto Rico',Qatar,'Republic of Congo',Romania,Russia,Rwanda,Samoa,'San Marino','Saudi Arabia',Senegal,Serbia,Seychelles,'Sierra Leone',Singapore,'Slovak Republic',Slovenia,'Solomon Islands',Somalia,'South Africa','South Sudan',Spain,'Sri Lanka','St. Kitts and Nevis','St. Lucia','St. Vincent and the Grenadines',Sudan,Suriname,Sweden,Switzerland,'São Tomé and Príncipe','Taiwan Province of China',Tajikistan,Tanzania,Thailand,'The Bahamas','The Gambia',Timor-Leste,Togo,Tonga,'Trinidad and Tobago',Tunisia,Turkey,Turkmenistan,Tuvalu,Uganda,Ukraine,'United Arab Emirates','United Kingdom','United States',Uruguay,Uzbekistan,Vanuatu,Venezuela,Vietnam,Yemen,Zambia,Zimbabwe}
+@attribute Descrição {'Gross domestic product current prices'}
+@attribute Unidades {'U.S. dollars'}
+@attribute Escala {Billions}
+@attribute Ano numeric
+@attribute PIB numeric
+@data
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 19428,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11885,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 16013,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 101124,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 146,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 554107,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 10546,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2647,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1264524,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 390961,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3781,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11839,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 32228,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 235623,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4841,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 47703,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 467738,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 182,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 8576,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2117,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 34189,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1691,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1566,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1793312,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11399,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 53236,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1131,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3138,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1664,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 20043,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 32635,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1535768,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1756,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 10091,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 24992,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11221836,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 282751,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 614,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 39324,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 7787,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 57828,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 36362,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 51635,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 20161,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 19509,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3069,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1889,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 581,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 72434,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 99938,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 332484,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 23912,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11253,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 5005,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 23348,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 372,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 73151,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4569,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 23915,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2466152,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1402,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1445,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 14376,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3496606,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 42788,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 19277,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1056,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 68663,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 8695,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1179,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3504,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 8178,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 21644,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 320897,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 125854,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 20716,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2273556,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 932445,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 404445,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 170677,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 301931,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 317748,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1860152,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 14022,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4950073,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 38709,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 137289,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 70876,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 182,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1414804,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 6717,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 110873,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 6813,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 15916,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 27583,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 51484,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2442,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3278,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 18539,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 42805,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 58656,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 45311,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 10759,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 10001,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 5475,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 297832,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4213,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 14014,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11265,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 196,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4686,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 12232,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1077782,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 323,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 7965,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11159,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 4376,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 103346,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 10897,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 63251,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 11306,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 102,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 21186,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 783852,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 185374,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 13184,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 7531,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 405442,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 371075,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 65941,0
+Pakistan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 278655,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 303,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 57821,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 18931,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 36054,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 194542,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 304889,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 471173,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 205269,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 103961,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 151732,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 189047,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1284727,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 8475,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 786,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1565,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 354,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 644936,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 18982,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 383,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1427,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3785,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 309754,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 89806,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 44727,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1235,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 6767,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 295678,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3054,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1237766,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 81546,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 96,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1643,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 771,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 55787,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3278,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 512205,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 670249,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 530608,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 6953,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 47653,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 411839,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2521,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 446,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 428,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 22657,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 41808,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 86339,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 3618,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 37,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 24509,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 93349,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 357045,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 2669107,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 1870715,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 52687,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 67069,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 798,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 236116,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 201326,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 36437,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 20941,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2016,0, 16117,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 20235,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 13072,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 167555,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 126506,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1524,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 637557,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 11537,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 27,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1379548,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 417351,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4067,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12162,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 35326,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 261515,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 499,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 54439,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 493669,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1854,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 9246,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2405,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 37782,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 18169,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 17384,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2055143,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12128,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 56943,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12569,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3396,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1776,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 22087,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 34993,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1653043,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1937,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 9872,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 276992,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1201461,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 314464,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 652,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4144,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 8718,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 58272,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4047,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 54758,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 21695,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 215825,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 325556,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2029,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 557,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 76091,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 104296,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 236528,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 24805,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12487,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 5813,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 25973,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4417,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 80874,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4891,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 252753,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2587682,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1493,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1482,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 15158,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3700613,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 47015,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 20069,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1119,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 7562,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 10251,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 135,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3561,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 8608,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 22979,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 341447,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 139218,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 24478,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2602309,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1015411,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 430709,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 192358,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 331545,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 350743,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1938679,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 14772,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4873202,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 40125,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 159407,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 79223,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 197,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1540458,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 7094,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 120684,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 7565,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 16974,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 30325,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 54184,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2749,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3285,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 30565,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 47264,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 6253,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 50361,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 11366,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 115,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 624,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 312386,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4505,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 15366,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12578,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 222,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4935,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 13329,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1151045,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 328,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 9556,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 11135,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4784,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 109326,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 12586,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 67284,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1324,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 114,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2488,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 832239,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 201393,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 13814,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 8224,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 376361,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 398832,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 70784,0
+Pakistan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 304952,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 292,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 61838,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 19822,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 38941,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 214248,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 313595,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 524833,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 218008,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 104219,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 166929,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 211884,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1577525,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 9136,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 841,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1643,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 393,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 686738,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 21112,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 41432,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1498,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3612,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 323902,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 95961,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 48868,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1298,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 7052,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 349299,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 306,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1313951,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 87348,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 964,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 1686,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 785,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 45819,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 3419,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 535615,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 678967,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 572594,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 7144,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 51758,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 455378,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 2775,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4767,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 455,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 22779,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 39956,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 851521,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 37926,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 4,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 26617,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 112128,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 382575,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 262841,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 194854,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 5918,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 48826,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 87,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 210083,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 220376,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 31268,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 25706,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2017,0, 17635,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 20367,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 15121,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 188342,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 114504,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1612,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 475429,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12533,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2784,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1427767,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 459401,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 45592,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12928,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 393,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 286275,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 5172,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 56934,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 536055,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1912,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 10546,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2624,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 41833,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 19984,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1907,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1909386,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 14695,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 63651,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 14284,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3436,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1972,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 24141,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 38445,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1733706,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2307,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 11112,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 299887,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 13457267,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 33694,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 745,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 42692,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1146,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 60816,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 45875,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 59971,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 23963,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 24454,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 354683,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2187,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 485,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 81103,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 107266,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 249471,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 25855,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 13225,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 6722,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 29527,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 4756,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 83836,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 5223,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 276553,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2794696,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 17212,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1605,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 16716,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 402914,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 51815,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 218057,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1192,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 79109,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 11503,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 148,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3636,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 9717,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 23835,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 360315,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 156393,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 26674,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2689992,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1005268,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 430082,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 230911,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 366448,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 365599,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2086911,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 15424,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 5070626,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 41869,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 184209,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 89591,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 205,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1655608,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 7839,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 144523,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 8013,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1823,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 34286,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 56709,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2981,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3218,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 43236,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 52468,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 68993,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 53961,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12374,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12499,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 6885,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 34729,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 4809,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 17407,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1427,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 23,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 52,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 14033,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1199264,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 335,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 11436,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12724,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 5389,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 118178,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 14601,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 71543,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 14148,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 117,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 28813,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 909887,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 205997,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1338,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 9458,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 397472,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 441439,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 81682,0
+Pakistan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 306897,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 66031,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 20767,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 41851,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 228944,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 331678,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 549478,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 237962,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 104557,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 188295,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 23944,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1576488,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 9709,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 878,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1769,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 45,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 769878,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2424,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 47654,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1564,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3754,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 346621,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 10694,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 54969,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1424,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 7405,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 376679,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 398,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1437047,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 92504,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1005,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 1774,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 828,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 33249,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 384,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 554659,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 709118,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 602678,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 735,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 55645,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 49012,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 3155,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 5347,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 468,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 23284,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 41662,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 713513,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 42764,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 45,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 27855,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 12639,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 432612,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 2808899,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 20513,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 60933,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 43303,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 957,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 96328,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 241434,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 28524,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 25778,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2018,0, 19367,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 21074,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15635,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 200171,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 110186,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1693,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 40803,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 13302,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2852,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1464409,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 469661,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 48069,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 13654,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 41607,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 313509,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5207,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 59964,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 545186,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1987,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 11386,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2839,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 45045,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2072,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 19777,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1929709,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15203,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 66242,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15351,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3573,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2058,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 26372,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 40125,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1820362,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2536,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 11758,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 305556,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 14172199,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 355163,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 745,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 46117,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 12084,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 63948,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 49395,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 61586,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 24996,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 264498,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 36215,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2392,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 539,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 85816,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 108401,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 298153,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 26921,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 12962,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 772,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 31179,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 4865,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 8817,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5563,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 282013,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2844697,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 17799,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1704,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 17836,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 4117069,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 57229,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 224033,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1261,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 82758,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 12465,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 157,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3875,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 10055,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 24496,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 380858,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 164527,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 28252,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 295772,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1066838,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 333603,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 25007,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 379799,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 376127,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2112798,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15744,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5220568,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 43988,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 195738,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 98264,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 211,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1699683,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 8208,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 152374,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 8518,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 19984,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3578,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 59732,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2964,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3245,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5133,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 54485,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 71494,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 57831,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 12783,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 13553,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 7327,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 372628,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5151,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 18488,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15061,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 238,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5243,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 14889,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1242393,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 342,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 12742,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 14087,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5607,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 122458,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 15602,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 73954,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 14787,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 114,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 30297,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 933178,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 212154,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 13626,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 10035,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 447013,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 448463,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 86525,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 314,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 72215,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 21543,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 44557,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 239217,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 354313,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 581292,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 242833,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 104625,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 204306,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 248838,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1649209,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 10532,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 92,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1786,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 495,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 795582,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 26004,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 50139,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1647,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3786,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 359619,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 112333,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5692,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1511,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 7822,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 385526,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3007,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1474119,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 98041,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1062,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1875,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 867,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 34373,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 411,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 563239,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 73114,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 626722,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 7577,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 60297,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 524253,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3412,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 5673,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 491,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 24162,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 42277,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 631163,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 47043,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 49,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 29869,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 132928,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 455587,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2809905,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 21482409,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 62893,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 51339,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 1024,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 8701,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 266238,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 3432,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 26118,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2019,0, 2163,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 22313,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1679,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 207846,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 11461,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 177,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 44498,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 14076,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2918,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1541438,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 494455,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 49766,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 14133,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 43037,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 342584,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5339,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 62151,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 569851,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2056,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 12409,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3041,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 4863,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2217,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 21057,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2027555,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 15262,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 706,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 16812,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3714,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 221,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2873,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 43142,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1937045,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2779,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 13081,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 322901,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 15461955,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 367256,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 795,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 48737,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1158,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 67638,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 54434,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 64919,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 26946,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 285807,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 380204,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2599,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 586,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 9093,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 110158,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 339375,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 28172,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 12869,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 8116,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 33454,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5016,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 97133,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5925,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 295501,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2979442,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 18806,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1824,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 19276,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 4331699,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 61362,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 235284,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1327,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 8809,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 13489,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1714,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 4667,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 10459,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 25135,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 403992,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 175265,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3026,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3258882,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1175081,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 340982,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 260411,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 40354,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 397988,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2191671,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 16436,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5371689,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 46305,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 209133,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 107049,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 22,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1781769,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 884,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 158093,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 9095,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 21887,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 38322,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 62447,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3068,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3342,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 55514,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 58119,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 76267,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 61741,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 13617,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 14603,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 7744,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 4015,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5562,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 20027,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 16238,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 246,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 547,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 16117,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1306766,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 348,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1313,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 15413,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5954,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 130417,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 16595,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 82064,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 15818,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 117,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 32673,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 980561,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 227377,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 14251,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 10953,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 504573,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 462464,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 88439,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 328,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 78304,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 22244,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 47571,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 252974,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 38544,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 628125,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 254099,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 105074,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 211181,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 269835,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1683821,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 11571,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 982,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 185,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 553,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 815316,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 28676,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 5438,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1732,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3857,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 377234,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 120435,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 60488,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1607,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 8256,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 403029,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2678,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1550647,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 10502,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 1123,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 195,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 905,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 35147,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 4352,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 586651,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 766559,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 661275,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 8121,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 6551,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 555232,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 3587,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 6236,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 521,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 25267,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 44192,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 744055,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 51343,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 53,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 33047,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 141824,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 475096,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 2912894,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 22289305,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 66599,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 55278,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 109,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 81354,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 292172,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 40063,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 274,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2020,0, 24059,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 23804,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 18131,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 212314,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 118224,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1842,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 476896,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 14917,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2997,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1615137,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 515137,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5118,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 14526,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 44593,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 374012,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5546,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 64317,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 591003,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2123,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 13563,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3277,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 52416,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 23574,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 22381,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2129542,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 16141,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 74679,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 18298,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3862,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2358,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 31245,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 46136,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2053356,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3025,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 14186,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 340505,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 16768081,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 382451,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 843,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 50232,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1072,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 71565,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 59555,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 67939,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 28611,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 30624,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 397789,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2824,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 619,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 96154,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 112715,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 359154,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 29429,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 13002,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 9385,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 35675,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5152,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 106293,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 631,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 306987,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3100099,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 19781,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1951,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 20904,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 4523596,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 65232,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 244599,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1394,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 93454,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 14588,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1862,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5443,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 10928,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 25931,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 427006,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 185088,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 32135,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3586641,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1259029,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 35295,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 27175,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 424292,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 419424,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2255924,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 17204,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5522052,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 48839,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 223933,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 116342,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 227,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1864786,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 9469,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 165092,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 9615,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2385,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 40648,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 65519,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3262,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3513,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 609,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 61346,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 80766,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 65459,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 14424,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 15609,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 822,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 431254,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 6013,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2156,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 17285,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 254,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 5823,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 17333,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1376293,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 354,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 13902,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 16905,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 6293,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 139003,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 17588,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 90512,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 16767,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 119,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 35281,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1021211,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 242332,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 15053,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 11878,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 572279,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 474754,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 91074,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 342,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 84365,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 23317,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 50834,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 266994,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 422591,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 677075,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 263639,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 10535,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 217534,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 289912,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1719949,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 12624,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 102,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1903,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 637,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 835223,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 31457,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 58656,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1829,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3998,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 395644,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 128118,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 63663,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1718,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 8713,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 419712,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2297,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 161668,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 112483,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 1181,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 2013,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 946,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3524,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 4724,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 610034,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 79834,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 694164,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 8711,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 71014,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 586135,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3629,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 6809,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 554,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 26732,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 46656,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 850487,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 56382,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 57,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3528,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 15176,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 493543,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 3012445,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 23096002,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 70477,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 58662,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 116,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 77889,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 318763,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 42341,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 29072,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2021,0, 26575,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 25579,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 19632,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 218739,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 123399,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1916,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 508882,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 15815,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 308,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1700629,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 537999,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 52694,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 14983,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 46133,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 408307,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 578,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 66823,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 614939,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2193,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 14628,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3575,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 56487,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 25202,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 23791,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2237535,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 16976,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 79211,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 19946,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 4078,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2522,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 33881,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 49591,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2185391,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3295,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 15374,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 358587,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 18131665,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 400803,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 898,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 52083,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 10521,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 7584,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6519,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 72089,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 30442,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 32485,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 417772,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3068,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 646,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 101678,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 115716,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 380165,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3078,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1329,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1087,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 38029,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 5343,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 115732,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6714,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 319381,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 323465,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 20571,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2086,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 22659,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 4736933,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 69529,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 253707,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1463,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 98825,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 15673,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 203,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 5993,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 11365,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 26957,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 452787,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 19535,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 34184,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3941236,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 134908,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 367683,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 284766,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 447437,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 44379,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 232972,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 18029,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 5714078,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 51562,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 241198,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 127061,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 236,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1959366,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 10168,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 172985,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 10221,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 25958,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 43181,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 68964,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3453,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3916,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6723,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 64823,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 85647,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 68857,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 15343,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 16601,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 8766,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 464484,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6504,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 23255,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 18397,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 261,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6212,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1854,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 144982,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 359,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 14621,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 18647,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 6686,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 148498,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 18671,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 99777,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 17806,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 123,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 38155,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 106533,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 257685,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 15954,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 13066,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 649003,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 489424,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 93105,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 356,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 90825,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 24457,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 54095,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 281781,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 464037,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 730507,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 274272,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 10565,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 22795,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 312134,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1757848,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 13838,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1062,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1963,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 689,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 860257,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3463,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 63386,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1923,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 426,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 414956,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 13628,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 67058,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1833,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 9203,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 43823,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 5001,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1690783,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 120507,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1238,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 2074,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 992,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 35159,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 4951,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 639977,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 836117,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 732619,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 9248,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 76974,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 617898,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 374,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 7455,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 58,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 28134,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 49291,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 914564,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 61991,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 62,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 39359,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 162726,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 512735,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 3135242,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 23874932,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 74428,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 62219,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 1234,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 75037,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 346886,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 44687,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 31016,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2022,0, 29318,0
+Afghanistan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 27621,0
+Albania,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 21076,0
+Algeria,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 228521,0
+Angola,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 129291,0
+'Antigua and Barbuda','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1994,0
+Argentina,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 540659,0
+Armenia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1677,0
+Aruba,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3165,0
+Australia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1794426,0
+Austria,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 559345,0
+Azerbaijan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 54587,0
+'The Bahamas','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 15378,0
+Bahrain,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 47768,0
+Bangladesh,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 445627,0
+Barbados,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 6024,0
+Belarus,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 70751,0
+Belgium,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 637868,0
+Belize,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2269,0
+Benin,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 15846,0
+Bhutan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3909,0
+Bolivia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 60989,0
+'Bosnia and Herzegovina','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 26868,0
+Botswana,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 25726,0
+Brazil,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2351287,0
+'Brunei Darussalam','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 17378,0
+Bulgaria,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 83667,0
+'Burkina Faso','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 21486,0
+Burundi,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 4349,0
+'Cabo Verde','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2688,0
+Cambodia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 36735,0
+Cameroon,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 53214,0
+Canada,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 232185,0
+'Central African Republic','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3578,0
+Chad,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 16328,0
+Chile,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 377714,0
+China,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 19580597,0
+Colombia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 422576,0
+Comoros,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 953,0
+'Democratic Republic of the Congo','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 54308,0
+'Republic of Congo','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 10302,0
+'Costa Rica','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 80427,0
+'Côte d\'Ivoire','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 70675,0
+Croatia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 74492,0
+Cyprus,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 32193,0
+'Czech Republic','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 342926,0
+Denmark,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 438064,0
+Djibouti,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3333,0
+Dominica,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 666,0
+'Dominican Republic','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 107648,0
+Ecuador,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 118996,0
+Egypt,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 414794,0
+'El Salvador','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 32211,0
+'Equatorial Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 14111,0
+Eritrea,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 12607,0
+Estonia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 40354,0
+Eswatini,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 5567,0
+Ethiopia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 126358,0
+Fiji,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 715,0
+Finland,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 33113,0
+France,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3363507,0
+Gabon,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 21759,0
+'The Gambia','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2223,0
+Georgia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2456,0
+Germany,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 4937232,0
+Ghana,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 74865,0
+Greece,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 261067,0
+Grenada,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1536,0
+Guatemala,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 104468,0
+Guinea,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 16791,0
+Guinea-Bissau,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2209,0
+Guyana,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 728,0
+Haiti,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 11708,0
+Honduras,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 28172,0
+'Hong Kong SAR','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 479236,0
+Hungary,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 205298,0
+Iceland,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 36385,0
+India,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 432994,0
+Indonesia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1446428,0
+'Islamic Republic of Iran','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 382376,0
+Iraq,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 298999,0
+Ireland,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 469948,0
+Israel,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 468667,0
+Italy,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2395573,0
+Jamaica,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 18902,0
+Japan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 5907644,0
+Jordan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 54437,0
+Kazakhstan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 261414,0
+Kenya,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 138221,0
+Kiribati,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 245,0
+Korea,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2054561,0
+Kosovo,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 10879,0
+Kuwait,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 181149,0
+'Kyrgyz Republic','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 10666,0
+'Lao P.D.R.','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2825,0
+Latvia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 45673,0
+Lebanon,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 72621,0
+Lesotho,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3559,0
+Liberia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 4257,0
+Libya,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 74721,0
+Lithuania,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 68076,0
+Luxembourg,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 904,0
+'Macao SAR','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 72396,0
+'FYR Macedonia','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 16281,0
+Madagascar,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 17607,0
+Malawi,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 9445,0
+Malaysia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 498466,0
+Maldives,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 7014,0
+Mali,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 24998,0
+Malta,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1949,0
+'Marshall Islands','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 267,0
+Mauritania,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 6568,0
+Mauritius,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 19775,0
+Mexico,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1526989,0
+Micronesia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 364,0
+Moldova,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 15184,0
+Mongolia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 20632,0
+Montenegro,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 7048,0
+Morocco,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 158655,0
+Mozambique,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 21172,0
+Myanmar,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 109695,0
+Namibia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 18863,0
+Nauru,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 128,0
+Nepal,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 41314,0
+Netherlands,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1106776,0
+'New Zealand','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 272037,0
+Nicaragua,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 16937,0
+Niger,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 14184,0
+Nigeria,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 736518,0
+Norway,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 503524,0
+Oman,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 95919,0
+Palau,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 37,0
+Panama,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 97778,0
+'Papua New Guinea','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 25662,0
+Paraguay,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 57894,0
+Peru,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 297416,0
+Philippines,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 510937,0
+Poland,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 787726,0
+Portugal,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 283824,0
+'Puerto Rico','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 106086,0
+Qatar,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 240989,0
+Romania,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 334448,0
+Russia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1818398,0
+Rwanda,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 15169,0
+Samoa,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1107,0
+'San Marino','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2017,0
+'São Tomé and Príncipe','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 739,0
+'Saudi Arabia','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 889504,0
+Senegal,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 37777,0
+Serbia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 68306,0
+Seychelles,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2014,0
+'Sierra Leone','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 4352,0
+Singapore,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 434949,0
+'Slovak Republic','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 144076,0
+Slovenia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 70162,0
+'Solomon Islands','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 197,0
+Somalia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 972,0
+'South Africa','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 456417,0
+'South Sudan','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 612,0
+Spain,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1758383,0
+'Sri Lanka','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 129363,0
+'St. Kitts and Nevis','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1297,0
+'St. Lucia','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 2137,0
+'St. Vincent and the Grenadines','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1041,0
+Sudan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 343,0
+Suriname,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 5235,0
+Sweden,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 66914,0
+Switzerland,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 873604,0
+'Taiwan Province of China','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 774022,0
+Tajikistan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 9814,0
+Tanzania,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 83452,0
+Thailand,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 65218,0
+Timor-Leste,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3371,0
+Togo,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 8129,0
+Tonga,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 601,0
+'Trinidad and Tobago','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 29836,0
+Tunisia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 52258,0
+Turkey,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 958259,0
+Turkmenistan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 68266,0
+Tuvalu,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 66,0
+Uganda,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 42546,0
+Ukraine,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 174316,0
+'United Arab Emirates','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 533641,0
+'United Kingdom','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 3257147,0
+'United States','Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 24670538,0
+Uruguay,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 78597,0
+Uzbekistan,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 66039,0
+Vanuatu,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 1313,0
+Venezuela,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 68216,0
+Vietnam,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 376223,0
+Yemen,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 4722,0
+Zambia,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 33191,0
+Zimbabwe,'Gross domestic product current prices','U.S. dollars',Billions, 2023,0, 31976,0
